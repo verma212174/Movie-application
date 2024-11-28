@@ -15,7 +15,7 @@ function VideoBackground({ movieId, bool }) {
         title="Movie Trailer Player"
         style={{
           border: "none",
-          // pointerEvents: "none", // Disables right-click
+        
         }}
         allowFullScreen
         loading="lazy"
